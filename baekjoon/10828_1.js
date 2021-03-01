@@ -48,11 +48,11 @@ for(var i = 0;i<ip;i++){
 		let parse=input.replace(/[^0-9]/g,'');
 		baekjoon.push(parse);
 	}
-	else if(ip=="pop") console.log(baekjoon.pop());
-	else if(ip=="size") console.log(baekjoon.length());
-	else if(ip=="empty"){
+	else if(input == "pop") console.log(baekjoon.pop());
+	else if(input == "size") console.log(baekjoon.length());
+	else if(input == "empty"){
 		if(baekjoon.length()==0) console.log(1);
 		else console.log(0);
 	}
-	else if(ip=="top") console.log(baekjoon.top());
+	else if(input=="top") console.log(baekjoon.top());
 }
