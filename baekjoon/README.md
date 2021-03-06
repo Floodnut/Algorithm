@@ -4,10 +4,10 @@
 ## 파일 구조
 >폴더
 >   >문제 폴더
->   >   >소스코드 (ex) 10828.py
->   >   >오답 소스코드 (ex) w10828.js
+>   >   >소스코드 (ex) 10828.py  
+>   >   >오답 소스코드 (ex) w10828.js  
 >
-> 10828 - [10828](https://www.acmicpc.net/problem/10828).
-> 9012 - [9012](https://www.acmicpc.net/problem/9012).
-> 9093 - [9093](https://www.acmicpc.net/problem/9093).
+> 10828 - [10828](https://www.acmicpc.net/problem/10828).  
+> 9012 - [9012](https://www.acmicpc.net/problem/9012).  
+> 9093 - [9093](https://www.acmicpc.net/problem/9093).  
 >
