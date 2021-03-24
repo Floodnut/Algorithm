@@ -12,3 +12,4 @@
 > 9012 - [9012](https://www.acmicpc.net/problem/9012)  
 > 9093 - [9093](https://www.acmicpc.net/problem/9093)   
 > 1874 - [1874](https://www.acmicpc.net/problem/1874) 
+> 10799 - [10799](https://www.acmicpc.net/problem/10799) 
