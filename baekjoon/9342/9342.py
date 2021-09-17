@@ -1,6 +1,6 @@
 import re, sys
 
-regex = re.compile('[A-F]{0,1}A+F+C+[A-F]{0,1}$')
+regex = re.compile('^[A-F]{0,1}A+F+C+[A-F]{0,1}$')
 wordCounts = int(input())
 words = []
 
