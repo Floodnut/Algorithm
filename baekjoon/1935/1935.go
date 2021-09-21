@@ -16,15 +16,11 @@ func (s *Stack) Push(item float32) {
 	s.items = append(s.items, item)
 }
 
-func (s *Stack) Pop() float32 /*, errors*/ {
+func (s *Stack) Pop() float32 {
 	dLen := len(s.items)
-	/*
-		if dLen == 0 {
-			return -1, errors.New("No Data")
-		}*/
 	item, items := s.items[dLen-1], s.items[0:dLen-1]
 	s.items = items
-	return item //, nil
+	return item
 }
 
 func postfix(notation string, num []int) float32 {
