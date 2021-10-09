@@ -1,3 +1,4 @@
+#https://floodnut.tistory.com/26
 from sys import stdin
 
 v, e =  list(map(int, stdin.readline().split())) #정점, 간선 의 개수
