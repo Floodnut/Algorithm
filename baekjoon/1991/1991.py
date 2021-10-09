@@ -1,3 +1,5 @@
+#https://floodnut.tistory.com/25
+
 from sys import stdin
 
 class Node:
