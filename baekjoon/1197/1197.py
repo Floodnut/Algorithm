@@ -32,29 +32,3 @@ for a, b, c in weight:
         sum += c
 
 print(sum)
-
-
-
-
-'''
-    { '1' : { '2' : 1 }, '2' : { } }
-
-    b : {
-
-    }
-
-    
-    #weight.sort(key=lambda x : x[2])
-
-print(weight)
-
-#print(time.time() - start)
-
-
-4 5
-1 2 1
-2 3 2
-1 3 3
-3 4 4
-1 4 -4
-'''
