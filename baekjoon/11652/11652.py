@@ -11,15 +11,8 @@ for i in range(0, N):
     num = int(stdin.readline())
     card[num] += 1
 
-    if i == 0:
+    if (i == 0) or ((result[0] > num) and (result[1] == card[num])) or (result[1] < card[num]):
         result[0] = num
         result[1] = card[num]
-    elif ((result[0] > num) and (result[1] == card[num])) or (result[1] < card[num]):
-        result[0] = num
-        result[1] = card[num]
-    #elif result[1] < card[num]:
-    #    result[0] = num
-    #    result[1] = card[num]
-
 
 print(result[0])
