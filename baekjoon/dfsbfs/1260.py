@@ -13,7 +13,6 @@ dfs_used = [0] * (N + 1)
 dfs_stack = []
 
 def dfs(N,M,V,G):
-    global dfs_used, dfs_stack
     dfs_used[V] = 1
     dfs_stack.append(V)
 
