@@ -13,7 +13,7 @@ def solution(V, K):
     COST = [float('inf')] * (V+1) 
     COST[K] = 0
     Q = []
-    heapq.heappush(Q, (0,K))
+    heapq.heappush(Q, (0, K))
     
     while Q:
         targetCost, target = heapq.heappop(Q)
@@ -33,6 +33,5 @@ def solution(V, K):
             print("INF")
         else:
             print(i)
-
 
 solution(V, K)
