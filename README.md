@@ -29,13 +29,17 @@
 </div>
 </details>
 <details>
-<summary>DisjointSet</summary>
-<div markdown="6">       
+<summary>분리집합(DisjointSet)</summary>
+<div markdown="6">     
+- [집합의 표현](https://www.acmicpc.net/problem/1717)  
+- [친구 네트워크](https://www.acmicpc.net/problem/4195)
+- [여행 가자](https://www.acmicpc.net/problem/1976)
 </div>
 </details>
 <details>
 <summary>최단경로</summary>
-<div markdown="7">       
+<div markdown="7">     
+- [최단경로](https://www.acmicpc.net/problem/1753)  
 </div>
 </details>
 <details>
