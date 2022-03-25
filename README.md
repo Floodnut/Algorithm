@@ -5,7 +5,11 @@
 
 <details>
 <summary>BFS/DFS</summary>
-<div markdown="1">       
+<div markdown="1"> 
+<a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a>      
+<a href="https://www.acmicpc.net/problem/1743">음식물 피하기</a>     
+<a href="https://www.acmicpc.net/problem/2667">단지번호 붙이기</a>     
+<a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>     
 </div>
 </details>
 <details>
