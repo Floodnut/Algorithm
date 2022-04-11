@@ -6,8 +6,10 @@
 <details>
 <summary>BFS/DFS</summary>
 <div markdown="1"> 
+<a href="https://www.acmicpc.net/problem/1012">유기농 배추</a>  
 <a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a>      
-<a href="https://www.acmicpc.net/problem/1743">음식물 피하기</a>     
+<a href="https://www.acmicpc.net/problem/1743">음식물 피하기</a>
+<a href="https://www.acmicpc.net/problem/2606">바이러스</a>         
 <a href="https://www.acmicpc.net/problem/2667">단지번호 붙이기</a>     
 <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>     
 </div>
@@ -65,5 +67,21 @@
 <summary>Heap</summary>
 <div markdown="11">   
 <a href="https://programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a>       
+</div>
+</details>
+<details>
+<summary>분할정복</summary>
+<div markdown="12">   
+<a href="https://programmers.co.kr/learn/courses/30/lessons/68936"">쿼드압축 후 개수 세기</a>       
+</div>
+</details>
+<details>
+<summary>트리</summary>
+<div markdown="13">   
+</div>
+</details>
+<details>
+<summary>탐욕법</summary>
+<div markdown="14">   
 </div>
 </details>
