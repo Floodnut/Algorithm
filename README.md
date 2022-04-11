@@ -59,8 +59,9 @@
 </div>
 </details>
 <details>
-<summary>이분탐색</summary>
-<div markdown="10">       
+<summary>이분탐색/분할정복</summary>
+<div markdown="10">
+<a href="https://programmers.co.kr/learn/courses/30/lessons/68936"">쿼드압축 후 개수 세기</a>           
 </div>
 </details>
 <details>
@@ -70,18 +71,12 @@
 </div>
 </details>
 <details>
-<summary>분할정복</summary>
-<div markdown="12">   
-<a href="https://programmers.co.kr/learn/courses/30/lessons/68936"">쿼드압축 후 개수 세기</a>       
-</div>
-</details>
-<details>
 <summary>트리</summary>
-<div markdown="13">   
+<div markdown="12">   
 </div>
 </details>
 <details>
 <summary>탐욕법</summary>
-<div markdown="14">   
+<div markdown="13">   
 </div>
 </details>
