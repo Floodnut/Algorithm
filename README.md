@@ -9,14 +9,17 @@
 <a href="https://www.acmicpc.net/problem/1012">유기농 배추</a>  
 <a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a>      
 <a href="https://www.acmicpc.net/problem/1743">음식물 피하기</a>
+<a href="https://www.acmicpc.net/problem/1987">알파벳</a>    
 <a href="https://www.acmicpc.net/problem/2606">바이러스</a>         
 <a href="https://www.acmicpc.net/problem/2667">단지번호 붙이기</a>     
+<a href="https://www.acmicpc.net/problem/11725">트리의 부모 찾기</a>     
 <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>     
 </div>
 </details>
 <details>
 <summary>문자열</summary>
-<div markdown="2">       
+<div markdown="2">    
+<a href="https://www.acmicpc.net/problem/1152">단어의 개수</a>     
 </div>
 </details>
 <details>
@@ -55,7 +58,8 @@
 </details>
 <details>
 <summary>수학</summary>
-<div markdown="9">       
+<div markdown="9">
+<a href="https://www.acmicpc.net/problem/9613">GCD 합</a>      
 </div>
 </details>
 <details>
