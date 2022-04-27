@@ -1,5 +1,7 @@
 *.html
+*.txt
 algo/
 
+.DS_Store
 Main.java
 Main.class
