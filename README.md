@@ -83,6 +83,7 @@
 </details>
 <details>
 <summary>탐욕법</summary>
-<div markdown="13">   
+<div markdown="13">  
+<a href="https://www.acmicpc.net/problem/11399">ATM</a>     
 </div>
 </details>
