@@ -26,7 +26,8 @@
 </details>
 <details>
 <summary>해시</summary>
-<div markdown="3">       
+<div markdown="3">   
+<a href="https://www.acmicpc.net/problem/11652">카드</a>  
 </div>
 </details>
 <details>
@@ -36,7 +37,8 @@
 </details>
 <details>
 <summary>완전탐색</summary>
-<div markdown="5">       
+<div markdown="5">
+<a href="https://www.acmicpc.net/problem/14500">테트로미노</a> 
 </div>
 </details>
 <details>
