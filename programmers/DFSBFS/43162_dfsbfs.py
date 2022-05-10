@@ -20,7 +20,7 @@ def solution(n, computers):
 
     for i in range(n):
         dfs(n, computers, computers[i], i, order + i, d)
-    #print(li)
+
     answer = len(list(set(list(d.values()))))
 
     return answer

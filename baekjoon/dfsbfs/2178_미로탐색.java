@@ -10,6 +10,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException{
         Queue<int[]> dq = new LinkedList<>();
+        //Deque<int[]> dq = new LinkedList<>();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
