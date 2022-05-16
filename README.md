@@ -95,3 +95,9 @@
 <a href="https://www.acmicpc.net/problem/13305">주유소</a>     
 </div>
 </details>
+<details>
+<summary>미분류</summary>
+<div markdown="13">  
+<a>두 전구</a>      
+</div>
+</details>
