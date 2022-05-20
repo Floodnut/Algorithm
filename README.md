@@ -96,8 +96,16 @@
 </div>
 </details>
 <details>
-<summary>미분류</summary>
+<summary>투 포인터</summary>
 <div markdown="13">  
-<a>두 전구</a>      
+<a href="https://www.acmicpc.net/problem/1806">부분합</a>  
+<a href="https://www.acmicpc.net/problem/2003">수들의 합 2</a>
+<a href="https://www.acmicpc.net/problem/11728">배열 합치기</a>        
+</div>
+</details>
+<details>
+<summary>미분류</summary>
+<div markdown="14">  
+<a>SWEA 두 전구</a>      
 </div>
 </details>
