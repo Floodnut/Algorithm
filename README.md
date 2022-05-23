@@ -100,6 +100,7 @@
 <div markdown="13">  
 <a href="https://www.acmicpc.net/problem/1806">부분합</a>  
 <a href="https://www.acmicpc.net/problem/2003">수들의 합 2</a>
+<a href="https://www.acmicpc.net/problem/2531">회전 초밥</a>     
 <a href="https://www.acmicpc.net/problem/11728">배열 합치기</a>        
 </div>
 </details>
