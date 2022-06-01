@@ -107,8 +107,8 @@
 <details>
 <summary>위상정렬</summary>
 <div markdown="14">  
-<a href="https://www.acmicpc.net/problem/1005">줄 세우기</a>      
-<a href="https://www.acmicpc.net/problem/2252">ACMCRAFT</a>       
+<a href="https://www.acmicpc.net/problem/2252">줄 세우기</a>      
+<a href="https://www.acmicpc.net/problem/1005">ACMCRAFT</a>       
 </div>
 </details>
 <details>
