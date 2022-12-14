@@ -13,8 +13,9 @@
 <a href="https://www.acmicpc.net/problem/1987">알파벳</a>
 <a href="https://www.acmicpc.net/problem/2178">미로 탐색</a>        
 <a href="https://www.acmicpc.net/problem/2606">바이러스</a>         
-<a href="https://www.acmicpc.net/problem/2667">단지번호 붙이기</a> 
-<a href="https://www.acmicpc.net/problem/7576">단지번호 붙이기</a>      
+<a href="https://www.acmicpc.net/problem/2667">단지번호 붙이기</a>
+<a href="https://www.acmicpc.net/problem/7569">토마토</a> 
+<a href="https://www.acmicpc.net/problem/7576">토마토</a>      
 <a href="https://www.acmicpc.net/problem/11725">트리의 부모 찾기</a>     
 <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>     
 </div>
