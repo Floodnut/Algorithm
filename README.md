@@ -46,7 +46,8 @@
 </details>
 <details>
 <summary>분리집합(DisjointSet)</summary>
-<div markdown="6">     
+<div markdown="6">
+<a href="https://www.acmicpc.net/problem/1043">거짓말</a>      
 <a href="https://www.acmicpc.net/problem/1717">집합의 표현</a>
 <a href="https://www.acmicpc.net/problem/4195">친구 네트워크</a>
 <a href="https://www.acmicpc.net/problem/1976">여행가자</a>
