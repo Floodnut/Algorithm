@@ -2,6 +2,7 @@ from sys import (
     stdin, 
     setrecursionlimit
     )
+
 setrecursionlimit(100000)
 parent = []
 
