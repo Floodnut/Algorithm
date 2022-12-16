@@ -65,6 +65,7 @@
 <a href="https://www.acmicpc.net/problem/1003">피보나치 함수</a>  
 <a href="https://www.acmicpc.net/problem/1463">1로 만들기</a>
 <a href="https://www.acmicpc.net/problem/9461">파도반수열</a>
+<a href="https://www.acmicpc.net/problem/12865">평범한 배낭</a>
 </div>
 </details>
 <details>
