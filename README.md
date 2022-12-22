@@ -77,6 +77,7 @@
 <details>
 <summary>이분탐색/분할정복</summary>
 <div markdown="10">
+<a href="https://www.acmicpc.net/problem/1074">Z</a>  
 <a href="https://programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a>           
 </div>
 </details>
