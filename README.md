@@ -24,6 +24,7 @@
 <summary>문자열</summary>
 <div markdown="2">    
 <a href="https://www.acmicpc.net/problem/1152">단어의 개수</a> 
+<a href="https://www.acmicpc.net/problem/1157">단어 공부</a>  
 <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>   
 </div>
 </details>
