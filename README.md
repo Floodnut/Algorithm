@@ -72,6 +72,7 @@
 <details>
 <summary>수학</summary>
 <div markdown="9">
+<a href="https://www.acmicpc.net/problem/1929">소수 구하기</a> 
 <a href="https://www.acmicpc.net/problem/9613">GCD 합</a>      
 </div>
 </details>
