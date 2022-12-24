@@ -91,7 +91,8 @@
 </details>
 <details>
 <summary>트리</summary>
-<div markdown="12">   
+<div markdown="12">  
+<a href="https://www.acmicpc.net/problem/1068">트리</a>  
 </div>
 </details>
 <details>
