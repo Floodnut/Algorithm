@@ -95,8 +95,9 @@
 </div>
 </details>
 <details>
-<summary>탐욕법</summary>
-<div markdown="13">  
+<summary>그리디</summary>
+<div markdown="13">
+<a href="https://www.acmicpc.net/problem/1931">회의실 배정</a>     
 <a href="https://www.acmicpc.net/problem/11047">동전 0</a>     
 <a href="https://www.acmicpc.net/problem/11399">ATM</a>   
 <a href="https://www.acmicpc.net/problem/13305">주유소</a>     
