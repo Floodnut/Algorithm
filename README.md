@@ -129,7 +129,6 @@
 </div>
 </details>
 <details>
-<details>
 <summary>백트래킹</summary>
 <div markdown="15">  
 <a href="https://www.acmicpc.net/problem/15654">N과 M(5)</a>           
