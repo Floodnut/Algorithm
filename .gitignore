@@ -4,4 +4,8 @@ algo/
 
 .DS_Store
 Main.java
-Main.class
+*.class
+Solution.java
+out/
+.idea/
+*.iml
