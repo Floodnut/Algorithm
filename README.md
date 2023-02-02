@@ -94,6 +94,7 @@
 <summary>트리</summary>
 <div markdown="12">  
 <a href="https://www.acmicpc.net/problem/1068">트리</a>  
+<a href="https://softeer.ai/practice/info.do?idx=1&eid=1256">업무 처리</a>  
 </div>
 </details>
 <details>
