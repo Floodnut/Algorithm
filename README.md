@@ -138,7 +138,8 @@
 <details>
 <summary>스택/큐</summary>
 <div markdown="16">  
-<a href="https://www.acmicpc.net/problem/1874">스택 수열</a>           
+<a href="https://www.acmicpc.net/problem/1874">스택 수열</a>     
+<a href="https://www.acmicpc.net/problem/1935">후기 표기식2</a>          
 </div>
 </details>
 <details>
