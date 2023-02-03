@@ -76,6 +76,7 @@
 <a href="https://www.acmicpc.net/problem/1463">1로 만들기</a>
 <a href="https://www.acmicpc.net/problem/1932">정수 삼각형</a>   
 <a href="https://www.acmicpc.net/problem/1932">설탕 배달</a>
+<a href="https://www.acmicpc.net/problem/9095">1, 2, 3 더하기</a>
 <a href="https://www.acmicpc.net/problem/9461">파도반수열</a>
 <a href="https://www.acmicpc.net/problem/12865">평범한 배낭</a>
 </div>
