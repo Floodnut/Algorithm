@@ -152,6 +152,7 @@
 <a href="https://www.acmicpc.net/problem/1935">후기 표기식2</a>   
 <a href="https://www.acmicpc.net/problem/2346">풍선 터뜨리기</a>   
 <a href="https://www.acmicpc.net/problem/9012">괄호</a>
+<a href="https://www.acmicpc.net/problem/10799">쇠 막대기</a> 
 <a href="https://www.acmicpc.net/problem/10828">스택</a>     
 </div>
 </details>
