@@ -39,7 +39,9 @@
 </details>
 <details>
 <summary>정렬</summary>
-<div markdown="4">       
+<div markdown="4">   
+<a href="https://www.acmicpc.net/problem/2750">수 정렬하기</a> 
+<a href="https://www.acmicpc.net/problem/2751">수 정렬하기2</a>     
 </div>
 </details>
 <details>
