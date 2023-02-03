@@ -106,6 +106,7 @@
 <a href="https://www.acmicpc.net/problem/1068">트리</a>
 <a href="https://www.acmicpc.net/problem/1197">최소 스패닝 트리</a>  
 <a href="https://www.acmicpc.net/problem/1991">트리 순회</a> 
+<a href="https://www.acmicpc.net/problem/6416">트리인가?</a>
 <a href="https://softeer.ai/practice/info.do?idx=1&eid=1256">업무 처리</a>  
 </div>
 </details>
