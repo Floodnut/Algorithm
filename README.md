@@ -135,8 +135,14 @@
 </div>
 </details>
 <details>
-<summary>미분류</summary>
+<summary>스택/큐</summary>
 <div markdown="16">  
+<a href="https://www.acmicpc.net/problem/1874">스택 수열</a>           
+</div>
+</details>
+<details>
+<summary>미분류</summary>
+<div markdown="17">  
 <a>SWEA 두 전구</a>      
 </div>
 </details>
