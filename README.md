@@ -27,6 +27,7 @@
 <a href="https://www.acmicpc.net/problem/1157">단어 공부</a>  
 <a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a> 
 <a href="https://www.acmicpc.net/problem/9093">단어 뒤집기</a>  
+<a href="https://www.acmicpc.net/problem/9342">염색체</a>  
 <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>   
 </div>
 </details>
