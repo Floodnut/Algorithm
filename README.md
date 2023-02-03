@@ -32,6 +32,7 @@
 <details>
 <summary>해시</summary>
 <div markdown="3">   
+<a href="https://www.acmicpc.net/problem/1620">나는야 포켓몬 마스터 이다솜</a>  
 <a href="https://www.acmicpc.net/problem/11652">카드</a>  
 </div>
 </details>
