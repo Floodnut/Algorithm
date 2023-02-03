@@ -21,10 +21,11 @@
 </div>
 </details>
 <details>
-<summary>문자열</summary>
+<summary>구현/문자열</summary>
 <div markdown="2">    
 <a href="https://www.acmicpc.net/problem/1152">단어의 개수</a> 
 <a href="https://www.acmicpc.net/problem/1157">단어 공부</a>  
+<a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a> 
 <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>   
 </div>
 </details>
@@ -94,7 +95,8 @@
 <details>
 <summary>트리</summary>
 <div markdown="12">  
-<a href="https://www.acmicpc.net/problem/1068">트리</a>  
+<a href="https://www.acmicpc.net/problem/1068">트리</a>
+<a href="https://www.acmicpc.net/problem/1197">최소 스패닝 트리</a>  
 <a href="https://softeer.ai/practice/info.do?idx=1&eid=1256">업무 처리</a>  
 </div>
 </details>
@@ -125,12 +127,6 @@
 </div>
 </details>
 <details>
-<summary>구현</summary>
-<div markdown="15">  
-<a href="https://www.acmicpc.net/problem/15686">치킨 배달</a>           
-</div>
-</details>
-<details>
 <summary>백트래킹</summary>
 <div markdown="15">  
 <a href="https://www.acmicpc.net/problem/15654">N과 M(5)</a>           
@@ -138,7 +134,7 @@
 </details>
 <details>
 <summary>미분류</summary>
-<div markdown="17">  
+<div markdown="16">  
 <a>SWEA 두 전구</a>      
 </div>
 </details>
