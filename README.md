@@ -124,7 +124,8 @@
 <a href="https://www.acmicpc.net/problem/1931">회의실 배정</a>     
 <a href="https://www.acmicpc.net/problem/11047">동전 0</a>     
 <a href="https://www.acmicpc.net/problem/11399">ATM</a>   
-<a href="https://www.acmicpc.net/problem/13305">주유소</a>     
+<a href="https://www.acmicpc.net/problem/13305">주유소</a> 
+<a href="https://softeer.ai/practice/info.do?idx=1&eid=395">금고 털이</a>   
 </div>
 </details>
 <details>
