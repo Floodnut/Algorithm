@@ -70,7 +70,7 @@
 </div>
 </details>
 <details>
-<summary>동적 프로그래밍, Minimax</summary>
+<summary>동적 프로그래밍, 게임이론</summary>
 <div markdown="8">    
 <a href="https://www.acmicpc.net/problem/1003">피보나치 함수</a>
 <a href="https://www.acmicpc.net/problem/1010">다리 놓기</a>
@@ -80,6 +80,7 @@
 <a href="https://www.acmicpc.net/problem/1932">설탕 배달</a>
 <a href="https://www.acmicpc.net/problem/9095">1, 2, 3 더하기</a>
 <a href="https://www.acmicpc.net/problem/9461">파도반수열</a>
+<a href="https://www.acmicpc.net/problem/9655">돌 게임</a>
 <a href="https://www.acmicpc.net/problem/11062">카드 게임</a>
 <a href="https://www.acmicpc.net/problem/12865">평범한 배낭</a>
 </div>
