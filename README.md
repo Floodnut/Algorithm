@@ -82,6 +82,7 @@
 <a href="https://www.acmicpc.net/problem/9461">파도반수열</a>
 <a href="https://www.acmicpc.net/problem/9655">돌 게임</a>
 <a href="https://www.acmicpc.net/problem/9656">돌 게임2</a>
+<a href="https://www.acmicpc.net/problem/9657">돌 게임3</a>
 <a href="https://www.acmicpc.net/problem/11062">카드 게임</a>
 <a href="https://www.acmicpc.net/problem/12865">평범한 배낭</a>
 </div>
