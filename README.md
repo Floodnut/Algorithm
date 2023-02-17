@@ -100,7 +100,8 @@
 <a href="https://www.acmicpc.net/problem/1074">Z</a>  
 <a href="https://www.acmicpc.net/problem/2110">공유기 탐색</a>  
 <a href="https://www.acmicpc.net/problem/2630">색종이 만들기</a>  
-<a href="https://programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a>           
+<a href="https://programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a>   
+<a href="https://softeer.ai/practice/info.do?idx=1&eid=1204">슈퍼컴퓨터 클러스터</a>             
 </div>
 </details>
 <details>
