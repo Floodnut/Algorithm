@@ -15,7 +15,8 @@
 <a href="https://www.acmicpc.net/problem/2606">바이러스</a>         
 <a href="https://www.acmicpc.net/problem/2667">단지번호 붙이기</a>
 <a href="https://www.acmicpc.net/problem/7569">토마토</a> 
-<a href="https://www.acmicpc.net/problem/7576">토마토</a>    
+<a href="https://www.acmicpc.net/problem/7576">토마토</a>   
+<a href="https://www.acmicpc.net/problem/10026">적록색약</a>  
 <a href="https://www.acmicpc.net/problem/11724">연결 요소의 개수</a>      
 <a href="https://www.acmicpc.net/problem/11725">트리의 부모 찾기</a>     
 <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>     
@@ -70,7 +71,7 @@
 </div>
 </details>
 <details>
-<summary>동적 프로그래밍, 게임이론</summary>
+<summary>동적 프로그래밍/게임이론</summary>
 <div markdown="8">    
 <a href="https://www.acmicpc.net/problem/1003">피보나치 함수</a>
 <a href="https://www.acmicpc.net/problem/1010">다리 놓기</a>
@@ -88,10 +89,11 @@
 </div>
 </details>
 <details>
-<summary>수학</summary>
+<summary>수학/집합</summary>
 <div markdown="9">
 <a href="https://www.acmicpc.net/problem/1929">소수 구하기</a> 
-<a href="https://www.acmicpc.net/problem/9613">GCD 합</a>      
+<a href="https://www.acmicpc.net/problem/9613">GCD 합</a>    
+<a>SWEA 두 전구</a>    
 </div>
 </details>
 <details>
@@ -134,7 +136,7 @@
 </div>
 </details>
 <details>
-<summary>투 포인터, 부분 합</summary>
+<summary>투 포인터/슬라이딩 윈도우/부분 합</summary>
 <div markdown="13">  
 <a href="https://www.acmicpc.net/problem/1806">부분합</a>  
 <a href="https://www.acmicpc.net/problem/2003">수들의 합 2</a>
@@ -152,7 +154,7 @@
 </div>
 </details>
 <details>
-<summary>백트래킹</summary>
+<summary>백트래킹/순열/조합</summary>
 <div markdown="15">  
 <a href="https://www.acmicpc.net/problem/15654">N과 M(5)</a>           
 </div>
@@ -171,6 +173,6 @@
 <details>
 <summary>미분류</summary>
 <div markdown="17">  
-<a>SWEA 두 전구</a>      
+    
 </div>
 </details>
