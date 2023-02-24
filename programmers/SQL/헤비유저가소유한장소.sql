@@ -1,0 +1,6 @@
+SELECT
+    *
+FROM
+    PLACES as p
+WHERE
+    (SELECT count(HOST_ID) FROM PLACES WHERE p.HOST_ID = HOST_ID) > 1
