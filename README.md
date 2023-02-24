@@ -179,6 +179,8 @@
 <summary>SQL</summary>
 <div markdown="17">  
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">헤비 유저가 소유한 장소</a>  
+<br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131113">조건별로 분류하여 주문상태 출력하기</a>  
 </div>
 </details>
 <details>
