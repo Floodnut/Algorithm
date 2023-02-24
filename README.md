@@ -177,10 +177,12 @@
 </details>
 <details>
 <summary>SQL</summary>
-<div markdown="17">  
+<div markdown="17"> 
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">우유와 요거트가 담긴 장바구니</a>  
+<br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">헤비 유저가 소유한 장소</a>  
 <br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131113">조건별로 분류하여 주문상태 출력하기</a>  
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131113">조건별로 분류하여 주문상태 출력하기</a>   
 </div>
 </details>
 <details>
