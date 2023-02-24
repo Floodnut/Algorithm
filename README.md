@@ -159,7 +159,8 @@
 <details>
 <summary>백트래킹/순열/조합</summary>
 <div markdown="15">  
-<a href="https://www.acmicpc.net/problem/15654">N과 M(5)</a>           
+<a href="https://www.acmicpc.net/problem/15654">N과 M(5)</a>  
+<a href="https://www.acmicpc.net/problem/11050">이항계수1</a>          
 </div>
 </details>
 <details>
