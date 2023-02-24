@@ -182,7 +182,9 @@
 <br>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">헤비 유저가 소유한 장소</a>  
 <br>
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131113">조건별로 분류하여 주문상태 출력하기</a>   
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131113">조건별로 분류하여 주문상태 출력하기</a> 
+<br>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/151138">자동차 대여 기록에서 장기/단기 대여 구분하기</a>
 </div>
 </details>
 <details>
