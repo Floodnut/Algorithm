@@ -48,7 +48,8 @@
 <div markdown="4">   
 <a href="https://www.acmicpc.net/problem/2750">수 정렬하기</a> 
 <a href="https://www.acmicpc.net/problem/2751">수 정렬하기2</a> 
-<a href="https://www.acmicpc.net/problem/10989">수 정렬하기3</a>      
+<a href="https://www.acmicpc.net/problem/10989">수 정렬하기3</a> 
+<a href="https://www.acmicpc.net/problem/18870">좌표 압축</a>       
 </div>
 </details>
 <details>
