@@ -8,6 +8,7 @@
 <div markdown="1"> 
 <a href="https://www.acmicpc.net/problem/1012">유기농 배추</a>  
 <a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a>  
+<a href="https://www.acmicpc.net/problem/1520">내리막길</a>  
 <a href="https://www.acmicpc.net/problem/1697">숨바꼭질</a>         
 <a href="https://www.acmicpc.net/problem/1743">음식물 피하기</a>
 <a href="https://www.acmicpc.net/problem/1987">알파벳</a>
