@@ -16,8 +16,10 @@ class Main {
             LinkedList<Integer[]> docs = new LinkedList<>() ;
             LinkedList<Integer> order = new LinkedList<>() ;
             st = new StringTokenizer(br.readLine());
-            for(int i = 0 ; i < n ; i++){
-                Integer[] input = new Integer[]{i, Integer.parseInt(st.nextToken())};
+
+            int i = 0;
+            while(st.hasMoreTokens()){
+                Integer[] input = new Integer[]{i++, Integer.parseInt(st.nextToken())};
                 docs.add(input);
                 order.add(input[1]);
             }
