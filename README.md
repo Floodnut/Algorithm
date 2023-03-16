@@ -177,7 +177,8 @@
 <summary>스택/큐</summary>
 <div markdown="16">  
 <a href="https://www.acmicpc.net/problem/1874">스택 수열</a>     
-<a href="https://www.acmicpc.net/problem/1935">후기 표기식2</a>   
+<a href="https://www.acmicpc.net/problem/1935">후기 표기식2</a>  
+<a href="https://www.acmicpc.net/problem/1966">프린터 큐</a>         
 <a href="https://www.acmicpc.net/problem/2346">풍선 터뜨리기</a>   
 <a href="https://www.acmicpc.net/problem/9012">괄호</a>
 <a href="https://www.acmicpc.net/problem/10799">쇠 막대기</a> 
