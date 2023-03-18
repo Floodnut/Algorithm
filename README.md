@@ -100,6 +100,7 @@
 <details>
 <summary>수학/집합</summary>
 <div markdown="9">
+<a href="https://www.acmicpc.net/problem/1009">분산처리</a>  
 <a href="https://www.acmicpc.net/problem/1929">소수 구하기</a>
 <a href="https://www.acmicpc.net/problem/2960">에라토스테네스의 체</a>   
 <a href="https://www.acmicpc.net/problem/9613">GCD 합</a>    
