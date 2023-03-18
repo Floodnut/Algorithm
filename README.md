@@ -121,6 +121,7 @@
 <summary>Heap</summary>
 <div markdown="11">   
 <a href="https://www.acmicpc.net/problem/1927">최소 힙</a>  
+<a href="https://www.acmicpc.net/problem/7662">이중 우선순위 큐</a>    
 <a href="https://www.acmicpc.net/problem/11279">최대 힙</a>  
 <a href="https://programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a>       
 </div>
