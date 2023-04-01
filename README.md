@@ -70,6 +70,7 @@
 <a href="https://www.acmicpc.net/problem/1717">집합의 표현</a>
 <a href="https://www.acmicpc.net/problem/4195">친구 네트워크</a>
 <a href="https://www.acmicpc.net/problem/1976">여행가자</a>
+<a href="https://www.acmicpc.net/problem/17250">은하철도</a>
 </div>
 </details>
 <details>
