@@ -26,12 +26,13 @@
 </div>
 </details>
 <details>
-<summary>구현/문자열</summary>
+<summary>구현/시뮬레이션/문자열</summary>
 <div markdown="2">    
 <a href="https://www.acmicpc.net/problem/1152">단어의 개수</a> 
 <a href="https://www.acmicpc.net/problem/1157">단어 공부</a>  
 <a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a> 
 <a href="https://www.acmicpc.net/problem/1330">두 수 비교하기</a>  
+<a href="https://www.acmicpc.net/problem/3190">뱀</a>  
 <a href="https://www.acmicpc.net/problem/5430">AC</a>    
 <a href="https://www.acmicpc.net/problem/9093">단어 뒤집기</a>  
 <a href="https://www.acmicpc.net/problem/9342">염색체</a>  
