@@ -1,11 +1,22 @@
-*.html
-*.txt
-algo/
+# 허용 언어
+!*.java
+!*.py
+!*.cpp
+!*.go
+!*.js
 
-.DS_Store
-Main.java
-*.class
-Solution.java
+# 작성 중인 코드
+**/Main**
+**/Sol**
+**/test**
+**/Test**
+
+# 기타 불필요한 디렉토리
+solving/
+algo/
 out/
 .idea/
-*.iml
+others/
+
+# 기타 불필요한 파일
+*
