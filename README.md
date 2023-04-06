@@ -37,6 +37,7 @@
 <a href="https://www.acmicpc.net/problem/9093">단어 뒤집기</a>  
 <a href="https://www.acmicpc.net/problem/9342">염색체</a>  
 <a href="https://www.acmicpc.net/problem/11723">집합</a>   
+<a href="https://www.acmicpc.net/problem/14499">주사위 굴리기</a>   
 <a href="https://www.acmicpc.net/problem/14503">로봇 청소기</a>   
 <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>   
 </div>
