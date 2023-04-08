@@ -40,6 +40,7 @@
 <a href="https://www.acmicpc.net/problem/11723">집합</a>   
 <a href="https://www.acmicpc.net/problem/14499">주사위 굴리기</a>   
 <a href="https://www.acmicpc.net/problem/14503">로봇 청소기</a>   
+<a href="https://www.acmicpc.net/problem/14890">경사로</a> 
 <a href="https://www.acmicpc.net/problem/14891">톱니바퀴</a>   
 <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>   
 </div>
@@ -101,6 +102,7 @@
 <a href="https://www.acmicpc.net/problem/11726">2xN 타일링</a>
 <a href="https://www.acmicpc.net/problem/11727">2xN 타일링 2</a>
 <a href="https://www.acmicpc.net/problem/12865">평범한 배낭</a>
+<a href="https://www.acmicpc.net/problem/14501">퇴사</a>
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12900">2xN 타일링(프로그래머스)</a>
 </div>
 </details>
@@ -181,7 +183,8 @@
 <summary>백트래킹/순열/조합</summary>
 <div markdown="15">  
 <a href="https://www.acmicpc.net/problem/11050">이항계수1</a>        
-<a href="https://www.acmicpc.net/problem/12100">2048 (EASY)</a>       
+<a href="https://www.acmicpc.net/problem/12100">2048 (EASY)</a>    
+<a href="https://www.acmicpc.net/problem/14888">연산자 끼워넣기</a>   
 <a href="https://www.acmicpc.net/problem/15654">N과 M(5)</a>  
 </div>
 </details>
