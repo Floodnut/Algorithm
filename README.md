@@ -13,6 +13,7 @@
 <a href="https://www.acmicpc.net/problem/1743">음식물 피하기</a>
 <a href="https://www.acmicpc.net/problem/1987">알파벳</a>
 <a href="https://www.acmicpc.net/problem/2178">미로 탐색</a>
+<a href="https://www.acmicpc.net/problem/2206">벽 부수고 이동하기</a>    
 <a href="https://www.acmicpc.net/problem/2251">물통</a>         
 <a href="https://www.acmicpc.net/problem/2606">바이러스</a>         
 <a href="https://www.acmicpc.net/problem/2667">단지번호 붙이기</a>

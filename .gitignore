@@ -23,3 +23,6 @@ others/
 # 기타 불필요한 파일
 *.txt
 *.iml
+*.DS_Store
+*.class
+*.out
